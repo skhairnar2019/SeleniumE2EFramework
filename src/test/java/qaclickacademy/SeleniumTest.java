@@ -10,6 +10,7 @@ public class SeleniumTest {
 	public void BrowserAUtomation()
 	{
 		System.out.println("BrowserAUtomation");	
+		System.out.println("UI AUtomation");
 	}
 	@Test
 	public void elementsUi()

@@ -36,4 +36,10 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter123");	
 	}
+	
+	@Test
+	public void deleteTwitter321()
+	{
+		System.out.println("deleteTwitter123sw");	
+	}
 }

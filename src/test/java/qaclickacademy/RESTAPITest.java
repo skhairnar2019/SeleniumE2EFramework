@@ -15,9 +15,25 @@ public class RESTAPITest {
 		System.out.println("postJira6");
 	}
 	
+	public void postJira23()
+	{
+		System.out.println("postJira123");
+		System.out.println("postJira222");
+		System.out.println("postJira322");
+		System.out.println("postJira422");
+		System.out.println("postJira522");
+		System.out.println("postJira622");
+	}
+	
 	@Test
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");	
+	}
+	
+	@Test
+	public void deleteTwitter1()
+	{
+		System.out.println("deleteTwitter123");	
 	}
 }

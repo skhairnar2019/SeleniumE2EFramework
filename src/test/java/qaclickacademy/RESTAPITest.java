@@ -38,8 +38,23 @@ public class RESTAPITest {
 	}
 	
 	@Test
+<<<<<<< HEAD
 	public void deleteTwitter123()
 	{
 		System.out.println("deleteTwitter456");	
+=======
+
+	public void deleteTwitter211()
+	{
+		System.out.println("deleteTwitter123wew");	
+	}
+	
+	@Test
+	public void deleteTwitter321()
+	{
+		System.out.println("deleteTwitter123sw");	
+
+>>>>>>> develop
 	}
 }
+
